@@ -1,1 +1,3 @@
-I'm frederion, PHP (symfony), C# (Unity) developer.
+I'm frederion,
+PHP (symfony) developer,
+and C# (Unity) developer.
